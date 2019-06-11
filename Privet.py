@@ -1,1 +1,1 @@
-print("Privet mir:")
+print("Privet mir")
